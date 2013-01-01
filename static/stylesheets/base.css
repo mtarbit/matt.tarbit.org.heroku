@@ -13,12 +13,11 @@ body {
 
 .content {
     position: relative;
-    right: -50px;
     margin: 0 auto;
     margin-top: 8%;
-    padding: 50px 60px;
+    padding: 60px;
+    padding-left: 140px;
     width: 500px;
-    background: #fff;
 }
 
 h1 {
